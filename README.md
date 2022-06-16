@@ -1,6 +1,6 @@
 # Odoo
 
-1:How to install Odoo 13 in Windows 10
+1:How to install Odoo  in Windows 10
 
     https://www.cybrosys.com/blog/how-to-install-odoo-in-windows
     
